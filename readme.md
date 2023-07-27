@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 # run code
 
-1. vocabulary and sentence analysis: '''python word_count.py```
+1. vocabulary and sentence analysis: ```python word_count.py```
 2. Part-of-speech analysis: ```python pos_analysis.py```
 3. Dependency parsing: ```python dependency_analysis.py```
 4. Sentiment analysis: ```python sentiment_analysis.py```
