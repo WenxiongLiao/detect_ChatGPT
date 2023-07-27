@@ -6,6 +6,7 @@
 This paper involves two datasets: medical abstract (in data/medical_text) and radiology report (in data/MiMic) datasets.
 
 all_ Data.csv contains all human-written data and ChatGPT-generated data
+
 prompt*_seed*_train.csv, prompt*_seed*_val.csv, prompt*_seed*_test.csv  is the training set, validation set, and testing set for different groups.
 
 # Software environment
